@@ -1,0 +1,3 @@
+# ConsoleTestApp
+
+Technical task
